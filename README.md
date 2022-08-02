@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Niklas3011
+- 👀 I’m interested in Softwaredevelopement and IT-Consulting
+- 🌱 I’m currently learning AI and App programming
