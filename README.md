@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Niklas3011
 - 👀 I’m interested in software developement and IT-consulting
 - 🌱 I’m currently learning AI and React
--$x^2$
