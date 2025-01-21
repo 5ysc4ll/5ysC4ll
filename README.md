@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @5ysC4ll
-- 👀 I’m interested in Software developement
-
+5ysc4all 🔓
+I’m not a script kiddie—I’m a command-line artist.
